@@ -10,6 +10,8 @@ You can test it here : https://rpeyron.github.io/dropbox-comments-downloader/dro
 
 1. Authenticate using the "Authenticate" button, you will be asked to log on your dropbox account and accept to give access to the "Comments Downloader" application. You may have a security warning as this application is not often used. You can read the source before to be sure it does nothing harmful.
 2. Select a file in your dropbox with the "Select" button. For now you can only download comments from your own dropbox, but the API should work on other files you have access (with another file selector)
+3. An overview of the comments will be printed below with the page number, the author, and the text of the comment
+4. The full JSON of the comments is downloadable by clicking on the "Download JSON" button. You will get the raw JSON with all the comments features (threads, indicators, comment location,...)
 
 # Install on your server
 
