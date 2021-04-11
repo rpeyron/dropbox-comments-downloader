@@ -1,4 +1,6 @@
-> **_NOTE:_**  !!!! Dropbox has changed this API and this does not work anymore !!!!
+# !!! Important Notice !!!
+
+Dropbox has changed this API and this does not work anymore. (that is the unfortunate fate of undocumented APIs...)
 
 
 # dropbox-comments-downloader
