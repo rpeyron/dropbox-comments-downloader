@@ -1,3 +1,6 @@
+> **_NOTE:_**  !!!! Dropbox has changed this API and this does not work anymore !!!!
+
+
 # dropbox-comments-downloader
 
 A quick and dirty dropbox comments download tool (with undocumented /comments2/list_comments API)
